@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @firesilvertv
+- 👀 I’m interested in LUA modding for games/simulators!
+- 🌱 I’m currently learning more LUA scripts!
+- 📫 How to reach me - firesilvertv@gmail.com
